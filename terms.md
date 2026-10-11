@@ -138,6 +138,6 @@ Continued use after updated Terms become effective constitutes acceptance to the
 
 Questions about these Terms may be directed to:
 
-**Operator:** [Developer or Team Name]
-**Email:** [Support Email Address]
+**Operator:** Christopher Decker
+**Email:** decker.cjd@outlook.com
 
