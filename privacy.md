@@ -135,6 +135,6 @@ Material changes will be communicated through an appropriate Bot or community no
 
 For questions, privacy concerns, or deletion requests:
 
-**Operator:** [Developer or Team Name]
-**Email:** [Support Email Address]
+**Operator:** Christopher Decker
+**Email:** decker.cjd@outlook.com
 
